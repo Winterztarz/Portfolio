@@ -1,0 +1,79 @@
+ body {
+   background-color: #000;
+ }
+header {
+    text-align: center;
+    background: url("../img/bakkgrund1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:700px;
+  }
+.hh {
+  padding-top: 40px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+  color: #000000;
+}
+.iemg {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.leftt {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+.rightt {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: right;
+}
+p {
+  text-align: center;
+  color: #000000;
+}
+h2 {
+  text-align: center;
+  color: #000000;
+}
+.progress-bar-purple {
+      background-color: purple !important;
+}
+section {
+  background: #FFFFFF;
+}
+.col-lg-4 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+.rounded-circle {
+    border-radius: 50%;
+}
+.card {
+    float: left;
+    width: 33.333%;
+    padding: .75rem;
+    margin-bottom: 2rem;
+    border: 0;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px;
+    border-width: 1px;
+}
+footer {
+  text-align: center;
+  line-height: 30px;
+  background:#FFFFFF;
+  /* #292b2c */
+  width: 100%;
+  position: static;
+  bottom: 0px;
+  color: #000000;
+  margin-bottom: 20px;
+}
